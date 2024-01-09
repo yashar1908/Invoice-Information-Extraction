@@ -12,7 +12,8 @@ The output of the questions asked about both the invoices are attached below.
 
 <h1> Prompting for English Invoice </h1>
 <h3>Reference Image</h3> <br>
-![image](https://github.com/yashar1908/Invoice-Information-Extraction/assets/73465642/2010bfd5-c19e-49a1-97d2-b23d832e7ba6)
+![image](https://github.com/yashar1908/Invoice-Information-Extraction/assets/73465642/a70c4f00-da70-4aa7-a24b-75b5ed9d14aa)
+
 
 
 Upon Prompting "What is the total bill amount in the invoice?" and uploading the desired invoice about which information is to be known, this is the output of the program:
@@ -25,7 +26,8 @@ Upon Prompting "What is the total bill amount in the invoice?" and uploading the
 
 <h1> Prompting for Hindi Invoice </h1>
 <h3>Reference Image</h3> <br>
-![image](https://github.com/yashar1908/Invoice-Information-Extraction/assets/73465642/f3f14e0a-856c-4a36-bc9e-333fc0031422)
+![image](https://github.com/yashar1908/Invoice-Information-Extraction/assets/73465642/c280b4bb-019f-4765-9dfb-750ff1d00518)
+
 
 
 <p>For the hindi invoice, when prompted "what is the name of each item along with its billing price in the invoice?", the output is: </p>
