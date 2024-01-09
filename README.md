@@ -4,7 +4,7 @@ The gemini vision pro model has ability to interpret text in a variety of langua
 For the sample invoices in this app, 1 invoice is in English and 1 invoice is in Hindi. 
 The output of the questions asked about both the invoices are attached below. 
 
-<h1>App Structure</h1>h1>
+<h1>App Structure</h1>
 
 ![image](https://github.com/yashar1908/Invoice-Information-Extraction/assets/73465642/7878fe3d-7925-44df-9f66-246e683184ae)
 
