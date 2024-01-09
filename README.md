@@ -10,6 +10,7 @@ The output of the questions asked about both the invoices are attached below.
 
 <br> <hr>
 
+<h1> Prompting for English Invoice </h1>
 
 Upon Prompting "What is the total bill amount in the invoice?" and uploading the desired invoice about which information is to be known, this is the output of the program:
 
@@ -18,6 +19,8 @@ Upon Prompting "What is the total bill amount in the invoice?" and uploading the
 <p> Note that the invoice image used here is the attached English Invoice. </p>
 
 <br> <hr>
+
+<h1> Prompting for Hindi Invoice </h1>
 
 <p>For the hindi invoice, when prompted "what is the name of each item along with its billing price in the invoice?", the output is: </p>
 
